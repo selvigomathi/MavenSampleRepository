@@ -22,8 +22,7 @@
                     <!-- Suite testng xml file to consider for test execution -->
                     <suiteXmlFiles>
                         <suiteXmlFile>testng.xml</suiteXmlFile>
-                        <suiteXmlFile>suites-test-testng.xml</suiteXmlFile>
-                    </suiteXmlFiles>
+                       </suiteXmlFiles>
                 </configuration>
             </plugin>
             <!-- Compiler plugin configures the java version to be usedfor compiling
